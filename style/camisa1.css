@@ -1,0 +1,12 @@
+body {
+    background-image: url('../img/sao.jpeg'); 
+    background-size: cover;       
+    background-repeat: no-repeat; 
+    background-position: center;  
+}
+ @keyframes flash {
+        0% { opacity: 0; }     /*da uma olhada em keyframes*/
+        20% { opacity: 1; }
+        100% { opacity: 0; }
+    }
+    
