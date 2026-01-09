@@ -1,0 +1,11 @@
+body {
+    background-image: url('../img/Morumbi.jpg'); 
+    background-size: cover;       
+    background-repeat: no-repeat; 
+    background-position: center;  
+}
+.product-card{
+    color: #ffffff;
+font-weight: 700;
+
+}
